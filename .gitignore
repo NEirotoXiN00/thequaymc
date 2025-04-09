@@ -5,9 +5,13 @@ usercache.json
 whitelist.json
 ops.json
 .console_history
+/plugins/GSit/data
+/plugins/AuthMe/authme.db
 
 # World directory and logs
 /world
 /world_nether
 /world_the_end
 /logs
+/pugins/Chatty/logs/
+/plugins/AuthMe/authme.log
