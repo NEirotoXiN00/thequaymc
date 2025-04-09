@@ -3,7 +3,8 @@ banned-ips.json
 banned-players.json
 usercache.json
 whitelist.json
-*.console_history
+ops.json
+.console_history
 
 # World directory and logs
 /world
