@@ -1,0 +1,12 @@
+# User Data
+banned-ips.json
+banned-players.json
+usercache.json
+whitelist.json
+*.console_history
+
+# World directory and logs
+/world
+/world_nether
+/world_the_end
+/logs
